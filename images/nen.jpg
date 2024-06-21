@@ -1,0 +1,914 @@
+<!DOCTYPE html>
+<html lang="vi" >
+
+<head>
+    <title>Qu&agrave; tặng &acirc;m nhạc thứ 4 ng&agrave;y 22/05/2024 - Đ&agrave;i Ph&aacute;t Thanh v&agrave; Truyền H&igrave;nh Hưng Y&ecirc;n</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Language" content="vi">
+    <meta name="description" content="Đ&agrave;i Ph&aacute;t Thanh v&agrave; Truyền H&igrave;nh Hưng Y&ecirc;n" />
+    <meta name="keywords" content="Đ&agrave;i Ph&aacute;t Thanh,Truyền H&igrave;nh,Hưng Y&ecirc;n" />
+    <meta name="author" content="MEDIATECH" />
+    <meta name="copyright" content="hungyentv" />
+    <meta name="csrf-token" content="VL6aSCZbK7XC0m3yiVCvJX34qbSe37bApl8kQD25webCrxP7egLqITaaO5XOkFwvYI96pPfEkGrbUV8czFGG93lEp2GhxXtLSupNMQbNazSpj684qgXV9L5y7zsi94SZ">
+    <meta name="app_control" content="phát thanh">
+    <meta name="app_action" content="qua-tang-am-nhac-thu-4-ngay-22-05-2024">
+    <meta name="site_path" content="https://hungyentv.vn/">
+    <meta name="template_path" content="/templates/frontend/hytv/">
+    <meta name="google-site-verification" content="igRQ4AoDy1frwnWhz9XNO8KY8WWAiQnHARHddCBpuxg" />
+    <meta name="robots" content="index, follow">
+
+    <!-- Chrome, Firefox OS and Opera -->
+    <meta name="theme-color" content="#f36a22">
+    <!-- Windows Phone -->
+    <meta name="msapplication-navbutton-color" content="#f36a22">
+    <!-- iOS Safari -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="#f36a22">
+
+    <title>Qu&agrave; tặng &acirc;m nhạc thứ 4 ng&agrave;y 22/05/2024 - Đ&agrave;i Ph&aacute;t Thanh v&agrave; Truyền H&igrave;nh Hưng Y&ecirc;n    </title>
+
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="/phat-thanh/qua-tang-am-nhac-thu-4-ngay-22-05-2024" />
+    <link rel="icon" type="image/x-icon" href="/templates/frontend/hytv/Assets/img/favicon.ico" />
+
+    <!-- Facebook integration -->
+    <meta property="fb:app_id" content="2390449331259402">
+    <meta property="og:title" content="Qu&agrave; tặng &acirc;m nhạc thứ 4 ng&agrave;y 22/05/2024" />
+    <meta property="og:image" content="https://media.hungyentv.vn/upload/audio/large/qua_tang_am_nhac_thu_4_ngay_22_05_2024_08101625052024.jpg" />
+    <meta property="og:image:width" content="960" />
+    <meta property="og:image:height" content="540" />
+    <meta property="og:url" content="https://hungyentv.vn/phat-thanh/qua-tang-am-nhac-thu-4-ngay-22-05-2024" />
+    <meta property="og:description" content="Đ&agrave;i Ph&aacute;t Thanh v&agrave; Truyền H&igrave;nh Hưng Y&ecirc;n" />
+    <meta property="og:type" content="website">
+
+    <meta name="apple-itunes-app" content="app-id=1520534548" />
+    <meta name="google-play-app" content="app-id=vn.mediatech.hytv" />
+    <meta name="apple-mobile-web-app-title" content="Hưng Yên TV" />
+    <meta name="application-name" content="Hưng Yên TV" />
+
+    <meta property='al:ios:url' content='hytv://open?type=audio&id=3972' />
+<meta property='al:ios:app_store_id' content='1520534548' />
+<meta property='al:ios:app_name' content='hytv' />
+<meta property='al:ios:package' content='vn.mediatech.hytv' />
+<meta property='al:android:url' content='hytv://open?type=audio&id=3972' />
+<meta property='al:android:app_name' content='hytv' />
+<meta property='al:android:package' content='vn.mediatech.hytv' />
+    <link rel="stylesheet" href="/assets/js/library/jquery-ui/jquery-ui.min.css">
+    <link rel="stylesheet" href="/assets/js/plugins/owl/v2.4/owl.carousel.css">
+    <link rel="stylesheet" href="/assets/js/library/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/assets/fonts/awesome/font-awesome.min.css">
+    <link rel="stylesheet" href="/assets/js/plugins/fancybox/jquery.fancybox.min.css">
+
+
+    <link href="/templates/frontend/hytv/Assets/css/styles.css?t=1691746733" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="/assets/js/library/jquery/jquery.min.js"></script>
+    <script type="text/javascript" src="/assets/js/library/jquery-ui/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="/assets/js/plugins/chart/chart.min.js"></script>
+    <script type="text/javascript" src="/assets/js/plugins/bootbox/js/bootbox.min.js"></script>
+    <script type="text/javascript" src="/assets/js/plugins/owl/v2.4/owl.carousel.min.js"></script>
+    <script type="text/javascript" src="/assets/js/library/bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/assets/js/plugins/fancybox/jquery.fancybox.min.js"></script>
+    <script type="text/javascript" src="/templates/frontend/hytv/Assets/js/swiper.min.js"></script>
+    <script type="text/javascript" src="/assets/js/plugins/moment/moment.min.js"></script>
+    <script type="text/javascript" src="/templates/frontend/hytv/Assets/js/waypoints.min.js"></script>
+    <script type="text/javascript" src="/templates/frontend/hytv/Assets/js/response.min.js"></script>
+    <script type="text/javascript" src="/templates/frontend/hytv/Assets/js/slimscroll.min.js"></script>
+    <script type="text/javascript" src="/templates/frontend/hytv/Assets/js/script.js"></script>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="/assets/js/html5/html5shiv.js"></script>
+        <script src="/assets/js/html5/respond.min.js"></script>
+        <![endif]-->
+
+    <script src="/assets/js/library/jquery/jquery.matchHeight.js?t=1589267172" type="text/javascript"></script>
+<script src="/templates/frontend/hytv/Assets/js/app.js?t=1690858818" type="text/javascript"></script>
+<script src="/templates/frontend/hytv/Assets/js/media.js?t=1670904356" type="text/javascript"></script>
+
+    
+    
+</head>
+
+<body id="outer-container">
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v17.0&appId=1388408641727539&autoLogAppEvents=1" nonce="EwcgUyMF"></script>
+    
+    <!-- top nav -->
+<header>
+
+        <div class="top_head">
+        <div class="container padding-mb-0">
+            <div class="pc-banner hidden-xs">
+                <div class="leftbanner">
+                    <img src="/templates/frontend/hytv/Assets/img/hyv2/bgleft.png" alt="">
+                </div>
+                <div class="rightbanner">
+                <img src="/templates/frontend/hytv/Assets/img/hyv2/bgright.png" alt="">
+                </div>
+            </div>
+            <a href="/" class="mobile">
+                <picture>
+                    <source media="(max-width:768px)" srcset="/templates/frontend/hytv/Assets/img/hyv2/bnmbile.png" alt="Đài phát thanh và truyền hình Hưng yên">
+                    <img src="/templates/frontend/hytv/Assets/img/hyv2/bnmbile.png" alt="Đài phát thanh và truyền hình Hưng yên">
+                </picture>
+            </a>
+        </div>
+            
+        </div>
+    </div>
+    <!-- menu -->
+    <div class="header_menu" id="header_menu">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-xs-9">
+                    <ul class="mainMenu"><li>
+        <a href="javascript:;" id="menuLeft" class="menuleft mobile-control sidebar-toggle">
+            <img src="/templates/frontend/hytv/Assets/img/hyv2/CirclesFour.svg">
+        </a>
+    <li><li class=''><a href='/'>Trang chủ</a></li><li class=''><a href='/truc-tuyen'>Truyền hình</a></li><li class=''><a href='/phat-thanh'>Phát thanh</a></li><li class=''><a href='/news'>Tin tức</a></li></ul>                </div>
+                <div class="col-md-4 text-right col-xs-3">
+                    <div class="custom-right-menu">
+                        <div class="menuleft visible-xs mobile-control hidden-xs"><i class="iconSearch fa fa-search"></i></div>
+                        <div class="boxSearch hidden-xs">
+                            <form class="example" action="/search" method="get">
+                                <input type="text" placeholder="Tìm kiếm..." name="keyword" autocomplete="off">
+                                <button type="submit"><i class="fa fa-search"></i></button>
+                            </form>
+                        </div>
+                        <div class="social">
+                            <span class="hidden-xs">Kết nối: </span>
+                                                            <a href="https://www.facebook.com/truyenhinhhungyen/" class="facebook" target="_blank"><img src="/templates/frontend/hytv/Assets/img/hyv2/FacebookLogo.svg"></a>
+                                                        <a href="https://www.tiktok.com/@truyenhinhhungyen?lang=en" class="facebook" target="_blank"><img src="/templates/frontend/hytv/Assets/img/hyv2/TiktokLogo.svg"></a>
+                                                            <a href="https://www.youtube.com/c/hungyentvvngo" class="youtube" target="_blank"><img src="/templates/frontend/hytv/Assets/img/hyv2/YoutubeLogo.svg"></a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                    <div class="testHeader" id="testHeader">
+                <div class="full-menu">
+                    <div class="container">
+                        <div class="boxmenu">
+                            <div class="heading hidden-lg">
+                                <span class="iconlogo">Tất cả chuyên mục</span>
+
+                                <i class="close_icon hidden-md hidden-lg hidden-sm"></i>
+                            </div>
+                            <ul>
+                                <li class="visible-xs"><a href="/">Trang chủ</a> </li>
+                                <li><a href="/truc-tuyen">Truyền hình</a><ul><li><a href='/video/285/thoi-su-truyen-hinh-hung-yen'>Thời sự Hưng Yên</a></li><li><a href='/video/327/chuyen-muc/dong-hanh-cung-doanh-nghiep'>Đồng hành cùng doanh nghiệp</a></li><li><a href='/video/345/chuyen-muc/y-kien-cu-tri'>Ý kiến cử tri </a></li><li><a href='/video/323/chuyen-muc/tap-chi-kinh-te-pho-hien'>Tạp chí Kinh tế Phố Hiến</a></li><li><a href='/video/227/chuyen-muc/xay-dung-dang'>Xây dựng Đảng</a></li><li><a href='/video/319/ong-kinh-phong-vien'>Ống kính phóng viên </a></li><li><a href='/video/214/hop-thu-truyen-hinh'>Hộp thư truyền hình</a></li></ul></li>                                <li><a href="/phat-thanh">Phát thanh</a><ul><li><a href='/phat-thanh/336/phat-thanh-truc-tiep-ket-noi-92-7-fm'>Phát thanh trực tiếp: Kết nối 92,7 FM</a></li><li><a href='/phat-thanh/338/phat-thanh-truc-tiep-hieu-dung-de-song-khoe'>Phát thanh trực tiếp: Hiểu đúng để sống khỏe</a></li><li><a href='/phat-thanh/337/thoi-su-buoi-trua'>Thời sự buổi trưa</a></li><li><a href='/phat-thanh/340/thoi-su-buoi-chieu'>Thời sự buổi chiều</a></li></ul></li>                                <li><a href="/news">Tin tức</a><ul><li><a href='/category/50/an-ninh-an-toan/an-ninh-trat-tu'>An ninh trật tự</a></li><li><a href='/category/95/hung-yen-24-7'>Hưng Yên 24/7</a></li></ul></li>                                <li><a href="/category/346/hoat-dong-cua-thuong-truc-tinh-uy">Hoạt động của Thường trực Tỉnh ủy</a><ul><li><a href='/category/350/hoat-dong-cua-thuong-truc-tinh-uy/uy-vien-bch-trung-uong-dang-bi-thu-tinh-uy-hung-yen'>Uỷ viên BCH trung ương Đảng, Bí thư Tỉnh uỷ Hưng Yên</a></li><li><a href='/category/349/hoat-dong-cua-thuong-truc-tinh-uy/pho-bi-thu-thuong-truc-tinh-uy-chu-tich-hdnd-tinh-hung-yen'>Phó Bí thư Thường trực Tỉnh uỷ, Chủ tịch HĐND tỉnh Hưng Yên</a></li><li><a href='/category/348/hoat-dong-cua-thuong-truc-tinh-uy/pho-bi-thu-tinh-uy-chu-tich-ubnd-tinh-hung-yen'>Phó Bí thư Tỉnh uỷ, Chủ tịch UBND tỉnh Hưng Yên</a></li></ul></li>                                                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+
+</header>
+<script>
+    $(document).ready(function() {
+        if ($('.header_menu').length) {
+            var stickyHeaderTop = $('.header_menu').offset().top;
+            $(window).scroll(function() {
+                // xu ly menu
+                if ($(window).scrollTop() >= stickyHeaderTop + 10) {
+                    $('.header_menu').addClass('sticky');
+                } else {
+                    $('.header_menu').removeClass('sticky');
+                }
+            });
+        }
+    });
+</script>    <div class="customer">
+    <link rel="stylesheet" href="/assets/node_modules/video.js/dist/video-js.min.css">
+<link rel="stylesheet" href="/templates/frontend/hytv/Assets/videojs/css/videojs.bgtv.skin.css">
+<script src="/assets/node_modules/video.js/dist/video.min.js"></script>
+
+<div class="video_box video_detail">
+    <div class="container">
+	<div id="breadcrumb">
+            <div class="row">
+                <div class="col-md-9 col-xs-12">
+                    <ul class="breadcrumb clearfix">
+                        <li><a href="/" title="trang chu">Trang chủ</a></li>
+                                                    <li class="hidden-xs"> <a href="/phat-thanh" title="Phát thanh">Phát thanh</a></li>
+                            <li><span>Quà tặng âm nhạc&nbsp;&nbsp;<i class="fa fa-angle-right"></i></span></li>
+                        
+
+                    </ul>
+                </div>
+                <div class="col-md-3 text-right hidden-xs">
+                                        <span class="today">Thứ 6, 21/06/2024 10:25 (GMT+7)</span>
+                </div>
+            </div>
+        </div>
+		<div class="row" style="padding: 15px 0">
+			<div class="col-md-8 main_left">
+                <div class="video_container">
+					                    <div class="thumbnail audio_control">
+                        <img src="https://media.hungyentv.vn/upload/audio/large/qua_tang_am_nhac_thu_4_ngay_22_05_2024_08101625052024.jpg" alt="" width="100%" onclick="togglePlay();" />
+                        <div class="control_btn" onclick="togglePlay();"><i class="fa fa-pause"></i></div>
+                    </div>
+					<div class="video_content mb15">
+                        <video id="audio_player" class="video-js vjs-bgtv-skin vjs-audio-skin" width="100%" autoplay height="40px">
+                            <source src="https://media.hungyentv.vn/upload/audio/file/qua_tang_am_nhac_thu_4_ngay_22_05_2024_08101825052024.mp3" type="audio/mp3">
+                        </video>
+                    </div>
+				</div>
+			</div>
+			<div class="col-md-4  sidebar_right">
+                <h1><span>Quà tặng âm nhạc thứ 4 ngày 22/05/2024</span></h1>
+                <div class="meta">
+                    <span class="datetime"><i class="fa fa-clock-o"></i>&nbsp;27 ngày trước</span>
+                    <span class="views"><i class="fa fa-eye"></i> 46 lượt xem</span>
+                </div>
+                        <!-- Social Links -->
+        <div class="social_links">
+            <!-- Facebook Linke & Share -->
+            <div class="social_item fblike"></div>
+
+            <!-- Twitter -->
+<!--            <div class="social_item tweet"></div>-->
+
+            <!-- Zalo -->
+            <div class="social_item zalo"></div>
+
+        </div>
+
+        
+                        <!-- tags -->
+                
+            <div class="comment videocm">
+            <ul class="nav nav-tabs">
+                <li ><a href="#tab_list" data-toggle="tab">Lời bình của bạn</a></li>
+                <li class="active"><a href="#tab_comment" data-toggle="tab">Gửi ý kiến</a></li>
+            </ul>
+            <div class="tab-content panel">
+                <div class="tab-pane " id="tab_list">
+                    <div class="list"></div>
+                </div>
+                <div class="tab-pane active" id="tab_comment">
+                    <form action="" method="post" role="form" id="form_comment">
+                        <div class="row">
+                            <div class="col-md-6 col-xs-12">
+                                <input type="text" class="form-control" id="fullname" name="fullname" placeholder="Họ và tên" required pattern=".{0,15}" title="Tối đa 15 kí tự">
+                            </div>
+
+                            <div class="col-md-6 col-xs-12">
+                                <input type="email" class="form-control" id="email" name="email" placeholder="Email" required title="Email không phù hợp">
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-12">
+                                <textarea name="message" id="message" class="form-control" rows="3" required pattern=".{15,160}" title="Tối thiểu 15 kí tự. Tối đa 160 kí tự."></textarea>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-5 col-xs-5 captcha_img" data-width="100" data-height="34" data-padding="5" data-color="#f36a22" data-bgcolor="#FFFFFF" data-shadowcolor="#888888" data-fontsize="15" data-maxchar="6" >
+                               <div class="captcha_wrap">
+                                    <img src="data:image/png;base64,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" style="width:100px;">
+                                    <span class="refresh_captcha"><i class="fa fa-refresh"></i></span>
+                                </div>
+                            </div>
+                            <div class="col-md-7 col-xs-7 captcha_code">
+                                <input type="text" class="form-control captcha_code" name="captcha_code" required placeholder="Mã bảo mật">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12 text-right">
+                                <input type="hidden" name="type" value="phát thanh">
+                                <input type="hidden" name="id" value="3972">
+                                <button type="submit" class="btn btn-danger pull-right">Gửi</button>
+                            </div>
+                        </div>
+
+                    </form>
+                </div>
+
+            </div>
+        </div>            </div>
+		</div>
+	
+        
+    </div>
+</div>
+    <div class="video_box video_list video_list_detail">
+        <div class="container">
+            <div class="box_header clearfix">
+                <div class="pull-left">
+                    <h2 class="box_title"><a href="javascript:;">Cùng chuyên mục</a></h2>
+                </div>
+            </div>
+            <div class="row">
+                                        <div class="col-sm-3 col-xs-6 video_item">
+
+                                    <a class="video_img" href="/phat-thanh/qua-tang-am-nhac-thu-4-ngay-19-06-2024" title="Qu&agrave; tặng &acirc;m nhạc thứ 4 ng&agrave;y 19/06/2024">
+                                        <img src="https://media.hungyentv.vn/thumb/280x171/upload/audio/thumb/qua_tang_am_nhac_thu_4_ngay_19_06_2024_14554420062024.jpg" alt="Qu&agrave; tặng &acirc;m nhạc thứ 4 ng&agrave;y 19/06/2024">
+                                    </a>
+
+
+                                    <h3><a class="title" href="/phat-thanh/qua-tang-am-nhac-thu-4-ngay-19-06-2024"
+                                           title="Qu&agrave; tặng &acirc;m nhạc thứ 4 ng&agrave;y 19/06/2024">Quà tặng âm nhạc thứ 4 ngày 19/06/2024</a></h3>
+                                    <div class="date"><i
+                                                class="fa fa-clock-o"></i> 20 giờ trước                                    </div>
+                                    <div class="views hidden-xs"><i class="fa fa-eye"></i> 8 lượt
+                                        xem
+                                    </div>
+
+                        </div>
+
+                                                <div class="col-sm-3 col-xs-6 video_item">
+
+                                    <a class="video_img" href="/phat-thanh/qua-tang-am-nhac-thu-3-ngay-18-06-2024" title="Qu&agrave; tặng &acirc;m nhạc thứ 3 ng&agrave;y 18/06/2024">
+                                        <img src="https://media.hungyentv.vn/thumb/280x171/upload/audio/thumb/qua_tang_am_nhac_thu_3_ngay_18_06_2024_09131920062024.jpg" alt="Qu&agrave; tặng &acirc;m nhạc thứ 3 ng&agrave;y 18/06/2024">
+                                    </a>
+
+
+                                    <h3><a class="title" href="/phat-thanh/qua-tang-am-nhac-thu-3-ngay-18-06-2024"
+                                           title="Qu&agrave; tặng &acirc;m nhạc thứ 3 ng&agrave;y 18/06/2024">Quà tặng âm nhạc thứ 3 ngày 18/06/2024</a></h3>
+                                    <div class="date"><i
+                                                class="fa fa-clock-o"></i> 1 ngày trước                                    </div>
+                                    <div class="views hidden-xs"><i class="fa fa-eye"></i> 10 lượt
+                                        xem
+                                    </div>
+
+                        </div>
+
+                                                <div class="col-sm-3 col-xs-6 video_item">
+
+                                    <a class="video_img" href="/phat-thanh/qua-tang-am-nhac-thu-2-ngay-17-06-2024" title="Qu&agrave; tặng &acirc;m nhạc thứ 2 ng&agrave;y 17/06/2024">
+                                        <img src="https://media.hungyentv.vn/thumb/280x171/upload/audio/thumb/qua_tang_am_nhac_thu_2_ngay_17_06_2024_08553620062024.jpg" alt="Qu&agrave; tặng &acirc;m nhạc thứ 2 ng&agrave;y 17/06/2024">
+                                    </a>
+
+
+                                    <h3><a class="title" href="/phat-thanh/qua-tang-am-nhac-thu-2-ngay-17-06-2024"
+                                           title="Qu&agrave; tặng &acirc;m nhạc thứ 2 ng&agrave;y 17/06/2024">Quà tặng âm nhạc thứ 2 ngày 17/06/2024</a></h3>
+                                    <div class="date"><i
+                                                class="fa fa-clock-o"></i> 1 ngày trước                                    </div>
+                                    <div class="views hidden-xs"><i class="fa fa-eye"></i> 8 lượt
+                                        xem
+                                    </div>
+
+                        </div>
+
+                                                <div class="col-sm-3 col-xs-6 video_item">
+
+                                    <a class="video_img" href="/phat-thanh/qua-tang-am-nhac-thu-7-ngay-15-06-2024" title="Qu&agrave; tặng &acirc;m nhạc thứ 7 ng&agrave;y 15/06/2024">
+                                        <img src="https://media.hungyentv.vn/thumb/280x171/upload/audio/thumb/qua_tang_am_nhac_thu_7_ngay_15_06_2024_10233317062024.jpg" alt="Qu&agrave; tặng &acirc;m nhạc thứ 7 ng&agrave;y 15/06/2024">
+                                    </a>
+
+
+                                    <h3><a class="title" href="/phat-thanh/qua-tang-am-nhac-thu-7-ngay-15-06-2024"
+                                           title="Qu&agrave; tặng &acirc;m nhạc thứ 7 ng&agrave;y 15/06/2024">Quà tặng âm nhạc thứ 7 ngày 15/06/2024</a></h3>
+                                    <div class="date"><i
+                                                class="fa fa-clock-o"></i> 4 ngày trước                                    </div>
+                                    <div class="views hidden-xs"><i class="fa fa-eye"></i> 17 lượt
+                                        xem
+                                    </div>
+
+                        </div>
+
+                                                <div class="col-sm-3 col-xs-6 video_item">
+
+                                    <a class="video_img" href="/phat-thanh/qua-tang-am-nhac-thu-6-ngay-14-06-2024" title="Qu&agrave; tặng &acirc;m nhạc thứ 6 ng&agrave;y 14/06/2024">
+                                        <img src="https://media.hungyentv.vn/thumb/280x171/upload/audio/thumb/qua_tang_am_nhac_thu_6_ngay_14_06_2024_10170117062024.jpg" alt="Qu&agrave; tặng &acirc;m nhạc thứ 6 ng&agrave;y 14/06/2024">
+                                    </a>
+
+
+                                    <h3><a class="title" href="/phat-thanh/qua-tang-am-nhac-thu-6-ngay-14-06-2024"
+                                           title="Qu&agrave; tặng &acirc;m nhạc thứ 6 ng&agrave;y 14/06/2024">Quà tặng âm nhạc thứ 6 ngày 14/06/2024</a></h3>
+                                    <div class="date"><i
+                                                class="fa fa-clock-o"></i> 4 ngày trước                                    </div>
+                                    <div class="views hidden-xs"><i class="fa fa-eye"></i> 16 lượt
+                                        xem
+                                    </div>
+
+                        </div>
+
+                                                <div class="col-sm-3 col-xs-6 video_item">
+
+                                    <a class="video_img" href="/phat-thanh/qua-tang-am-nhac-thu-5-ngay-13-06-2024" title="Qu&agrave; tặng &acirc;m nhạc thứ 5 ng&agrave;y 13/06/2024">
+                                        <img src="https://media.hungyentv.vn/thumb/280x171/upload/audio/thumb/qua_tang_am_nhac_thu_5_ngay_13_06_2024_22062215062024.jpg" alt="Qu&agrave; tặng &acirc;m nhạc thứ 5 ng&agrave;y 13/06/2024">
+                                    </a>
+
+
+                                    <h3><a class="title" href="/phat-thanh/qua-tang-am-nhac-thu-5-ngay-13-06-2024"
+                                           title="Qu&agrave; tặng &acirc;m nhạc thứ 5 ng&agrave;y 13/06/2024">Quà tặng âm nhạc thứ 5 ngày 13/06/2024</a></h3>
+                                    <div class="date"><i
+                                                class="fa fa-clock-o"></i> 6 ngày trước                                    </div>
+                                    <div class="views hidden-xs"><i class="fa fa-eye"></i> 13 lượt
+                                        xem
+                                    </div>
+
+                        </div>
+
+                                                <div class="col-sm-3 col-xs-6 video_item">
+
+                                    <a class="video_img" href="/phat-thanh/qua-tang-am-nhac-thu-4-ngay-12-06-2024" title="Qu&agrave; tặng &acirc;m nhạc thứ 4 ng&agrave;y 12/06/2024">
+                                        <img src="https://media.hungyentv.vn/thumb/280x171/upload/audio/thumb/qua_tang_am_nhac_thu_4_ngay_12_06_2024_11022514062024.jpg" alt="Qu&agrave; tặng &acirc;m nhạc thứ 4 ng&agrave;y 12/06/2024">
+                                    </a>
+
+
+                                    <h3><a class="title" href="/phat-thanh/qua-tang-am-nhac-thu-4-ngay-12-06-2024"
+                                           title="Qu&agrave; tặng &acirc;m nhạc thứ 4 ng&agrave;y 12/06/2024">Quà tặng âm nhạc thứ 4 ngày 12/06/2024</a></h3>
+                                    <div class="date"><i
+                                                class="fa fa-clock-o"></i> 7 ngày trước                                    </div>
+                                    <div class="views hidden-xs"><i class="fa fa-eye"></i> 17 lượt
+                                        xem
+                                    </div>
+
+                        </div>
+
+                                                <div class="col-sm-3 col-xs-6 video_item">
+
+                                    <a class="video_img" href="/phat-thanh/qua-tang-am-nhac-thu-3-ngay-11-06-2024" title="Qu&agrave; tặng &acirc;m nhạc thứ 3 ng&agrave;y 11/06/2024">
+                                        <img src="https://media.hungyentv.vn/thumb/280x171/upload/audio/thumb/qua_tang_am_nhac_thu_3_ngay_11_06_2024_10385114062024.jpg" alt="Qu&agrave; tặng &acirc;m nhạc thứ 3 ng&agrave;y 11/06/2024">
+                                    </a>
+
+
+                                    <h3><a class="title" href="/phat-thanh/qua-tang-am-nhac-thu-3-ngay-11-06-2024"
+                                           title="Qu&agrave; tặng &acirc;m nhạc thứ 3 ng&agrave;y 11/06/2024">Quà tặng âm nhạc thứ 3 ngày 11/06/2024</a></h3>
+                                    <div class="date"><i
+                                                class="fa fa-clock-o"></i> 7 ngày trước                                    </div>
+                                    <div class="views hidden-xs"><i class="fa fa-eye"></i> 17 lượt
+                                        xem
+                                    </div>
+
+                        </div>
+
+                                                <div class="col-sm-3 col-xs-6 video_item">
+
+                                    <a class="video_img" href="/phat-thanh/qua-tang-am-nhac-thu-2-ngay-10-06-2024" title="Qu&agrave; tặng &acirc;m nhạc  thứ 2 ng&agrave;y 10/06/2024">
+                                        <img src="https://media.hungyentv.vn/thumb/280x171/upload/audio/thumb/qua_tang_am_nhac_thu_2_ngay_10_06_2024_08565414062024.jpg" alt="Qu&agrave; tặng &acirc;m nhạc  thứ 2 ng&agrave;y 10/06/2024">
+                                    </a>
+
+
+                                    <h3><a class="title" href="/phat-thanh/qua-tang-am-nhac-thu-2-ngay-10-06-2024"
+                                           title="Qu&agrave; tặng &acirc;m nhạc  thứ 2 ng&agrave;y 10/06/2024">Quà tặng âm nhạc  thứ 2 ngày 10/06/2024</a></h3>
+                                    <div class="date"><i
+                                                class="fa fa-clock-o"></i> 7 ngày trước                                    </div>
+                                    <div class="views hidden-xs"><i class="fa fa-eye"></i> 18 lượt
+                                        xem
+                                    </div>
+
+                        </div>
+
+                                                <div class="col-sm-3 col-xs-6 video_item">
+
+                                    <a class="video_img" href="/phat-thanh/qua-tang-am-nhac-chu-nhat-ngay-09-06-2024" title="Qu&agrave; tặng &acirc;m nhạc Chủ nhật ng&agrave;y 09/06/2024">
+                                        <img src="https://media.hungyentv.vn/thumb/280x171/upload/audio/thumb/qua_tang_am_nhac_chu_nhat_ngay_09_06_2024_09243810062024.jpg" alt="Qu&agrave; tặng &acirc;m nhạc Chủ nhật ng&agrave;y 09/06/2024">
+                                    </a>
+
+
+                                    <h3><a class="title" href="/phat-thanh/qua-tang-am-nhac-chu-nhat-ngay-09-06-2024"
+                                           title="Qu&agrave; tặng &acirc;m nhạc Chủ nhật ng&agrave;y 09/06/2024">Quà tặng âm nhạc Chủ nhật ngày 09/06/2024</a></h3>
+                                    <div class="date"><i
+                                                class="fa fa-clock-o"></i> 11 ngày trước                                    </div>
+                                    <div class="views hidden-xs"><i class="fa fa-eye"></i> 20 lượt
+                                        xem
+                                    </div>
+
+                        </div>
+
+                                                <div class="col-sm-3 col-xs-6 video_item">
+
+                                    <a class="video_img" href="/phat-thanh/qua-tang-am-nhac-thu-7-ngay-08-06-2024" title="Qu&agrave; tặng &acirc;m nhạc thứ 7 ng&agrave;y 08/06/2024">
+                                        <img src="https://media.hungyentv.vn/thumb/280x171/upload/audio/thumb/qua_tang_am_nhac_thu_7_ngay_08_06_2024_09114410062024.jpg" alt="Qu&agrave; tặng &acirc;m nhạc thứ 7 ng&agrave;y 08/06/2024">
+                                    </a>
+
+
+                                    <h3><a class="title" href="/phat-thanh/qua-tang-am-nhac-thu-7-ngay-08-06-2024"
+                                           title="Qu&agrave; tặng &acirc;m nhạc thứ 7 ng&agrave;y 08/06/2024">Quà tặng âm nhạc thứ 7 ngày 08/06/2024</a></h3>
+                                    <div class="date"><i
+                                                class="fa fa-clock-o"></i> 11 ngày trước                                    </div>
+                                    <div class="views hidden-xs"><i class="fa fa-eye"></i> 20 lượt
+                                        xem
+                                    </div>
+
+                        </div>
+
+                                                <div class="col-sm-3 col-xs-6 video_item">
+
+                                    <a class="video_img" href="/phat-thanh/qua-tang-am-nhac-thu-6-ngay-07-06-2024" title="Qu&agrave; tặng &acirc;m nhạc thứ 6 ng&agrave;y 07/06/2024">
+                                        <img src="https://media.hungyentv.vn/thumb/280x171/upload/audio/thumb/qua_tang_am_nhac_thu_6_ngay_07_06_2024_22324509062024.jpg" alt="Qu&agrave; tặng &acirc;m nhạc thứ 6 ng&agrave;y 07/06/2024">
+                                    </a>
+
+
+                                    <h3><a class="title" href="/phat-thanh/qua-tang-am-nhac-thu-6-ngay-07-06-2024"
+                                           title="Qu&agrave; tặng &acirc;m nhạc thứ 6 ng&agrave;y 07/06/2024">Quà tặng âm nhạc thứ 6 ngày 07/06/2024</a></h3>
+                                    <div class="date"><i
+                                                class="fa fa-clock-o"></i> 11 ngày trước                                    </div>
+                                    <div class="views hidden-xs"><i class="fa fa-eye"></i> 16 lượt
+                                        xem
+                                    </div>
+
+                        </div>
+
+                                                <div class="col-sm-3 col-xs-6 video_item">
+
+                                    <a class="video_img" href="/phat-thanh/qua-tang-am-nhac-thu-5-ngay-06-06-2024" title="Qu&agrave; tặng &acirc;m nhạc thứ 5 ng&agrave;y 06/06/2024">
+                                        <img src="https://media.hungyentv.vn/thumb/280x171/upload/audio/thumb/qua_tang_am_nhac_thu_5_ngay_06_06_2024_22061609062024.jpg" alt="Qu&agrave; tặng &acirc;m nhạc thứ 5 ng&agrave;y 06/06/2024">
+                                    </a>
+
+
+                                    <h3><a class="title" href="/phat-thanh/qua-tang-am-nhac-thu-5-ngay-06-06-2024"
+                                           title="Qu&agrave; tặng &acirc;m nhạc thứ 5 ng&agrave;y 06/06/2024">Quà tặng âm nhạc thứ 5 ngày 06/06/2024</a></h3>
+                                    <div class="date"><i
+                                                class="fa fa-clock-o"></i> 12 ngày trước                                    </div>
+                                    <div class="views hidden-xs"><i class="fa fa-eye"></i> 19 lượt
+                                        xem
+                                    </div>
+
+                        </div>
+
+                                                <div class="col-sm-3 col-xs-6 video_item">
+
+                                    <a class="video_img" href="/phat-thanh/qua-tang-am-nhac-thu-4-ngay-05-06-2024" title="Qu&agrave; tặng &acirc;m nhạc thứ 4 ng&agrave;y 05/06/2024">
+                                        <img src="https://media.hungyentv.vn/thumb/280x171/upload/audio/thumb/qua_tang_am_nhac_thu_4_ngay_05_06_2024_21561909062024.jpg" alt="Qu&agrave; tặng &acirc;m nhạc thứ 4 ng&agrave;y 05/06/2024">
+                                    </a>
+
+
+                                    <h3><a class="title" href="/phat-thanh/qua-tang-am-nhac-thu-4-ngay-05-06-2024"
+                                           title="Qu&agrave; tặng &acirc;m nhạc thứ 4 ng&agrave;y 05/06/2024">Quà tặng âm nhạc thứ 4 ngày 05/06/2024</a></h3>
+                                    <div class="date"><i
+                                                class="fa fa-clock-o"></i> 12 ngày trước                                    </div>
+                                    <div class="views hidden-xs"><i class="fa fa-eye"></i> 17 lượt
+                                        xem
+                                    </div>
+
+                        </div>
+
+                                                <div class="col-sm-3 col-xs-6 video_item">
+
+                                    <a class="video_img" href="/phat-thanh/qua-tang-am-nhac-thu-3-ngay-04-06-2024" title="Qu&agrave; tặng &acirc;m nhạc thứ 3 ng&agrave;y 04/06/2024">
+                                        <img src="https://media.hungyentv.vn/thumb/280x171/upload/audio/thumb/qua_tang_am_nhac_thu_3_ngay_04_06_2024_15271505062024.jpg" alt="Qu&agrave; tặng &acirc;m nhạc thứ 3 ng&agrave;y 04/06/2024">
+                                    </a>
+
+
+                                    <h3><a class="title" href="/phat-thanh/qua-tang-am-nhac-thu-3-ngay-04-06-2024"
+                                           title="Qu&agrave; tặng &acirc;m nhạc thứ 3 ng&agrave;y 04/06/2024">Quà tặng âm nhạc thứ 3 ngày 04/06/2024</a></h3>
+                                    <div class="date"><i
+                                                class="fa fa-clock-o"></i> 16 ngày trước                                    </div>
+                                    <div class="views hidden-xs"><i class="fa fa-eye"></i> 26 lượt
+                                        xem
+                                    </div>
+
+                        </div>
+
+                                                <div class="col-sm-3 col-xs-6 video_item">
+
+                                    <a class="video_img" href="/phat-thanh/qua-tang-am-nhac-thu-2-ngay-03-06-2024" title="Qu&agrave; tặng &acirc;m nhạc thứ 2 ng&agrave;y 03/06/2024">
+                                        <img src="https://media.hungyentv.vn/thumb/280x171/upload/audio/thumb/qua_tang_am_nhac_thu_2_ngay_03_06_2024_14213605062024.jpg" alt="Qu&agrave; tặng &acirc;m nhạc thứ 2 ng&agrave;y 03/06/2024">
+                                    </a>
+
+
+                                    <h3><a class="title" href="/phat-thanh/qua-tang-am-nhac-thu-2-ngay-03-06-2024"
+                                           title="Qu&agrave; tặng &acirc;m nhạc thứ 2 ng&agrave;y 03/06/2024">Quà tặng âm nhạc thứ 2 ngày 03/06/2024</a></h3>
+                                    <div class="date"><i
+                                                class="fa fa-clock-o"></i> 16 ngày trước                                    </div>
+                                    <div class="views hidden-xs"><i class="fa fa-eye"></i> 20 lượt
+                                        xem
+                                    </div>
+
+                        </div>
+
+                                                <div class="col-sm-3 col-xs-6 video_item">
+
+                                    <a class="video_img" href="/phat-thanh/qua-tang-am-nhac-chu-nhat-ngay-02-06-2024" title="Qu&agrave; tặng &acirc;m nhạc Chủ nhật ng&agrave;y 02/06/2024">
+                                        <img src="https://media.hungyentv.vn/thumb/280x171/upload/audio/thumb/qua_tang_am_nhac_chu_nhat_ngay_02_06_2024_09102505062024.jpg" alt="Qu&agrave; tặng &acirc;m nhạc Chủ nhật ng&agrave;y 02/06/2024">
+                                    </a>
+
+
+                                    <h3><a class="title" href="/phat-thanh/qua-tang-am-nhac-chu-nhat-ngay-02-06-2024"
+                                           title="Qu&agrave; tặng &acirc;m nhạc Chủ nhật ng&agrave;y 02/06/2024">Quà tặng âm nhạc Chủ nhật ngày 02/06/2024</a></h3>
+                                    <div class="date"><i
+                                                class="fa fa-clock-o"></i> 16 ngày trước                                    </div>
+                                    <div class="views hidden-xs"><i class="fa fa-eye"></i> 23 lượt
+                                        xem
+                                    </div>
+
+                        </div>
+
+                                                <div class="col-sm-3 col-xs-6 video_item">
+
+                                    <a class="video_img" href="/phat-thanh/qua-tang-am-nhac-thu-7-ngay-01-06-2024" title="Qu&agrave; tặng &acirc;m nhạc thứ 7 ng&agrave;y 01/06/2024">
+                                        <img src="https://media.hungyentv.vn/thumb/280x171/upload/audio/thumb/qua_tang_am_nhac_thu_7_ngay_01_06_2024_09002705062024.jpg" alt="Qu&agrave; tặng &acirc;m nhạc thứ 7 ng&agrave;y 01/06/2024">
+                                    </a>
+
+
+                                    <h3><a class="title" href="/phat-thanh/qua-tang-am-nhac-thu-7-ngay-01-06-2024"
+                                           title="Qu&agrave; tặng &acirc;m nhạc thứ 7 ng&agrave;y 01/06/2024">Quà tặng âm nhạc thứ 7 ngày 01/06/2024</a></h3>
+                                    <div class="date"><i
+                                                class="fa fa-clock-o"></i> 16 ngày trước                                    </div>
+                                    <div class="views hidden-xs"><i class="fa fa-eye"></i> 21 lượt
+                                        xem
+                                    </div>
+
+                        </div>
+
+                                                <div class="col-sm-3 col-xs-6 video_item">
+
+                                    <a class="video_img" href="/phat-thanh/qua-tang-am-nhac-thu-5-ngay-30-05-2024" title="Qu&agrave; tặng &acirc;m nhạc thứ 5 ng&agrave;y 30/05/2024">
+                                        <img src="https://media.hungyentv.vn/thumb/280x171/upload/audio/thumb/qua_tang_am_nhac_thu_5_ngay_30_05_2024_09041403062024.jpg" alt="Qu&agrave; tặng &acirc;m nhạc thứ 5 ng&agrave;y 30/05/2024">
+                                    </a>
+
+
+                                    <h3><a class="title" href="/phat-thanh/qua-tang-am-nhac-thu-5-ngay-30-05-2024"
+                                           title="Qu&agrave; tặng &acirc;m nhạc thứ 5 ng&agrave;y 30/05/2024">Quà tặng âm nhạc thứ 5 ngày 30/05/2024</a></h3>
+                                    <div class="date"><i
+                                                class="fa fa-clock-o"></i> 18 ngày trước                                    </div>
+                                    <div class="views hidden-xs"><i class="fa fa-eye"></i> 20 lượt
+                                        xem
+                                    </div>
+
+                        </div>
+
+                                                <div class="col-sm-3 col-xs-6 video_item">
+
+                                    <a class="video_img" href="/phat-thanh/qua-tang-am-nhac-thu-4-ngay-29-05-2024" title="Qu&agrave; tặng &acirc;m nhạc thứ 4 ng&agrave;y 29/05/2024">
+                                        <img src="https://media.hungyentv.vn/thumb/280x171/upload/audio/thumb/qua_tang_am_nhac_thu_4_ngay_29_05_2024_08343003062024.jpg" alt="Qu&agrave; tặng &acirc;m nhạc thứ 4 ng&agrave;y 29/05/2024">
+                                    </a>
+
+
+                                    <h3><a class="title" href="/phat-thanh/qua-tang-am-nhac-thu-4-ngay-29-05-2024"
+                                           title="Qu&agrave; tặng &acirc;m nhạc thứ 4 ng&agrave;y 29/05/2024">Quà tặng âm nhạc thứ 4 ngày 29/05/2024</a></h3>
+                                    <div class="date"><i
+                                                class="fa fa-clock-o"></i> 18 ngày trước                                    </div>
+                                    <div class="views hidden-xs"><i class="fa fa-eye"></i> 23 lượt
+                                        xem
+                                    </div>
+
+                        </div>
+
+                                                <div class="col-sm-3 col-xs-6 video_item">
+
+                                    <a class="video_img" href="/phat-thanh/qua-tang-am-nhac-thu-3-ngay-28-05-2024" title="Qu&agrave; tặng &acirc;m nhạc thứ 3 ng&agrave;y 28/05/2024">
+                                        <img src="https://media.hungyentv.vn/thumb/280x171/upload/audio/thumb/qua_tang_am_nhac_thu_3_ngay_28_05_2024_22204730052024.jpg" alt="Qu&agrave; tặng &acirc;m nhạc thứ 3 ng&agrave;y 28/05/2024">
+                                    </a>
+
+
+                                    <h3><a class="title" href="/phat-thanh/qua-tang-am-nhac-thu-3-ngay-28-05-2024"
+                                           title="Qu&agrave; tặng &acirc;m nhạc thứ 3 ng&agrave;y 28/05/2024">Quà tặng âm nhạc thứ 3 ngày 28/05/2024</a></h3>
+                                    <div class="date"><i
+                                                class="fa fa-clock-o"></i> 22 ngày trước                                    </div>
+                                    <div class="views hidden-xs"><i class="fa fa-eye"></i> 31 lượt
+                                        xem
+                                    </div>
+
+                        </div>
+
+                                                <div class="col-sm-3 col-xs-6 video_item">
+
+                                    <a class="video_img" href="/phat-thanh/qua-tang-am-nhac-thu-2-ngay-27-05-2024" title="Qu&agrave; tặng &acirc;m nhạc thứ 2 ng&agrave;y 27/05/2024">
+                                        <img src="https://media.hungyentv.vn/thumb/280x171/upload/audio/thumb/qua_tang_am_nhac_thu_2_ngay_27_05_2024_22081130052024.jpg" alt="Qu&agrave; tặng &acirc;m nhạc thứ 2 ng&agrave;y 27/05/2024">
+                                    </a>
+
+
+                                    <h3><a class="title" href="/phat-thanh/qua-tang-am-nhac-thu-2-ngay-27-05-2024"
+                                           title="Qu&agrave; tặng &acirc;m nhạc thứ 2 ng&agrave;y 27/05/2024">Quà tặng âm nhạc thứ 2 ngày 27/05/2024</a></h3>
+                                    <div class="date"><i
+                                                class="fa fa-clock-o"></i> 22 ngày trước                                    </div>
+                                    <div class="views hidden-xs"><i class="fa fa-eye"></i> 25 lượt
+                                        xem
+                                    </div>
+
+                        </div>
+
+                                                <div class="col-sm-3 col-xs-6 video_item">
+
+                                    <a class="video_img" href="/phat-thanh/qua-tang-am-nhac-chu-nhat-ngay-26-05-2024" title="Qu&agrave; tặng &acirc;m nhạc Chủ nhật ng&agrave;y 26/05/2024">
+                                        <img src="https://media.hungyentv.vn/thumb/280x171/upload/audio/thumb/qua_tang_am_nhac_chu_nhat_ngay_26_05_2024_14490327052024.jpg" alt="Qu&agrave; tặng &acirc;m nhạc Chủ nhật ng&agrave;y 26/05/2024">
+                                    </a>
+
+
+                                    <h3><a class="title" href="/phat-thanh/qua-tang-am-nhac-chu-nhat-ngay-26-05-2024"
+                                           title="Qu&agrave; tặng &acirc;m nhạc Chủ nhật ng&agrave;y 26/05/2024">Quà tặng âm nhạc Chủ nhật ngày 26/05/2024</a></h3>
+                                    <div class="date"><i
+                                                class="fa fa-clock-o"></i> 25 ngày trước                                    </div>
+                                    <div class="views hidden-xs"><i class="fa fa-eye"></i> 52 lượt
+                                        xem
+                                    </div>
+
+                        </div>
+
+                                                <div class="col-sm-3 col-xs-6 video_item">
+
+                                    <a class="video_img" href="/phat-thanh/qua-tang-am-nhac-thu-7-ngay-25-05-2024" title="Qu&agrave; tặng &acirc;m nhạc thứ 7 ng&agrave;y 25/05/2024">
+                                        <img src="https://media.hungyentv.vn/thumb/280x171/upload/audio/thumb/qua_tang_am_nhac_thu_7_ngay_25_05_2024_14400327052024.jpg" alt="Qu&agrave; tặng &acirc;m nhạc thứ 7 ng&agrave;y 25/05/2024">
+                                    </a>
+
+
+                                    <h3><a class="title" href="/phat-thanh/qua-tang-am-nhac-thu-7-ngay-25-05-2024"
+                                           title="Qu&agrave; tặng &acirc;m nhạc thứ 7 ng&agrave;y 25/05/2024">Quà tặng âm nhạc thứ 7 ngày 25/05/2024</a></h3>
+                                    <div class="date"><i
+                                                class="fa fa-clock-o"></i> 25 ngày trước                                    </div>
+                                    <div class="views hidden-xs"><i class="fa fa-eye"></i> 48 lượt
+                                        xem
+                                    </div>
+
+                        </div>
+
+                                    </div>
+        </div>
+    </div>
+
+
+<script>
+    var audio_player;
+
+    function togglePlay() {
+        if (audio_player == undefined) return;
+        if (audio_player.paused()) {
+            $('.audio_control .control_btn i').removeClass('fa-play').addClass('fa-pause');
+            audio_player.play();
+        } else {
+            $('.audio_control .control_btn i').removeClass('fa-pause').addClass('fa-play');
+            audio_player.pause();
+        }
+        audio_player.muted(false);
+    }
+    $(function() {
+        videojs('audio_player', {
+            controls: true,
+            autoplay: true,
+            fluid: false,
+            preload: "none",
+            playsinline: ($.browser.safari ? true : false),
+            notSupportedMessage: 'Không thể tải dữ liệu !',
+        }, function() {
+            audio_player = this;
+            this.player().on('error', function(e) {
+                var msg = 'Không thể tải dữ liệu vì máy chủ mất kết nối hoặc do định dạng không được hỗ trợ.';
+                e.stopImmediatePropagation();
+                showMessage(msg);
+            });
+        })
+    });
+</script>    </div>
+    <footer>
+    
+    
+    <!-- navigate -->
+    <div class="footer_nav">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-md-9 footer_home hidden-xs">
+
+                    <ul><li ><a href="/" title="Trang chủ"><i class="iconhome1"></i></a></li><li ><a href="/truc-tuyen" title="Truyền hình">Truyền hình</a></li><li ><a href="/phat-thanh" title="Phát thanh">Phát thanh</a></li><li ><a href="/news" title="Tin tức">Tin tức</a></li><li ><a href="http://mail.hungyentv.vn/">Check mail</a> </li></ul>                </div>
+                <div class="col-xs-12 col-md-3 footer_navright">
+                    <a href="javascript:;" rel="nofollow" id="totop">Về đầu trang</a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="bgBlack1">
+        <div class="container">
+            <!-- address & menu -->
+            <div class="footer_links pt15">
+                <div class="row">
+                    <div class="col-sm-6 col-md-3 col-xs-6 txt8">
+                        <ul><li><a href="/video/215/chap-canh-uoc-mo">Chắp c&aacute;nh ước mơ</a></li><li><a href="#"></a><a href="/video/253/van-hoa-va-doi-song">Văn H&oacute;a v&agrave; Đời Sống</a></li><li><a href="http://video/284/thoi-su-nhin-tu-pho-hien">Thời sự nh&igrave;n từ Phố Hiến</a></li><li><a href="/video/282/phong-su-va-phim-tai-lieu">Ph&oacute;ng sự v&agrave; Phim t&agrave;i liệu</a></li><li><a href="/video/263/giao-luu-toa-dam">Giao lưu - Tọa đ&agrave;m</a></li><li><a href="/category/311/cong-khai-ngan-sach">C&ocirc;ng khai ng&acirc;n s&aacute;ch</a></li></ul>                    </div>
+                    <div class="col-sm-6 col-md-3 txt8">
+                        <ul><li><a href="/category/95/hung-yen-24-7">Hưng y&ecirc;n 24/7</a></li><li><a href="/category/190/an-ninh-an-toan">An ninh - An to&agrave;n</a></li><li><a href="/category/287/net-dep-xu-nhan">N&eacute;t đẹp xứ nh&atilde;n</a><a href="/category/262/goc-anh"></a></li><li><a href="/phat-thanh">Ph&aacute;t thanh</a></li><li><a href="/video/251/chuyen-muc">C&aacute;c chuy&ecirc;n mục</a></li></ul>                    </div>
+					<div class="col-sm-6 col-md-3 col-xs-6 txt8">
+					<ul>
+						<li>
+		<a href="https://tinnhiemmang.vn/danh-ba-tin-nhiem/hungyentvvn-1629774994" target="_blank" title="Chung nhan Tin Nhiem Mang"><img src="https://tinnhiemmang.vn/handle_cert?id=hungyentv.vn" width="150px" height="auto" alt="Chung nhan Tin Nhiem Mang" class="fr-fic fr-dii"></a></li>
+					</ul>
+					</div>
+                    <div class="col-sm-6 col-md-3 col-xs-6 hidden-xs">
+
+                    </div>
+                    <div class="col-sm-6 col-md-3 col-xs-12 download">
+                        <ul>
+                            <li class="txt3">Tải ứng dụng HYTV</li>
+                            <li>
+                                <a href="https://apps.apple.com/vn/app/hungyentv-go/id1520534548?l=vi" target="_blank"><img src="/templates/frontend/hytv//Assets/img/app-store.png"
+                                                 style="border: 0;height: 40px"></a>
+                                <a target="_blank"
+                                   href="https://play.google.com/store/apps/details?id=vn.mediatech.hytv"><img
+                                            src="/templates/frontend/hytv//Assets/img/google-store.png"
+                                            style="border: 0;height: 40px"></a>
+                            </li>
+                            <li class="txt3">Số lượt truy cập trang</li>
+                            <li>
+                                <div class="footer_counter">
+
+                                    <div class="counter_wrap clearfix">
+                                        
+                                        <div class="counter clearfix">
+                                            <span class="mil">200</span>
+                                            <span class="ths">955</span>
+                                            <span class="hnd">324</span>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- copyright  -->
+            <div class="footer_copyright">
+                <div class="footerline">
+                    <div class="logofooter left hidden-xs">
+                        <a href="/" title="Truyền hình Hưng Yên">
+                            <img src="/templates/frontend/hytv/Assets/img/hyv2/logofooter.png"
+                                 alt="Truyền hình Hưng Yên" height="80">
+                        </a>
+                    </div>
+                    <div class="copyright left">
+                        <ul>
+                            <li>Trang thông tin điện tử - Đài phát thanh và truyền hình hưng yên</li>
+                            <li>Giám đốc Đài: Nguyễn Thị Thu Hoài</li>
+                            <li>Phụ trách nội dung : Phòng Biên tập - Thông tin điện tử</li>
+                            <li>Bản quyền thuộc về Đài Phát thanh và Truyền hình Hưng Yên</li>
+                            <li>Giấy phép số 45/GP-TTĐT ngày 13 tháng 04 năm 2020 do Cục Phát thanh, Truyền hình và
+                                Thông tin điện tử cấp cho Đài Phát thanh và Truyền hình Hưng Yên.
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="contact right">
+                        <ul>
+                            <li>Liên hệ toà soạn</li>
+                            <li><i class="fa  fa-phone"></i>&nbsp;&nbsp;02213 616 988 - Hotline: 0363 089 089</li>
+                            <li><i class="fa fa-envelope-o"></i>&nbsp;&nbsp;<a href="mailto:hungyentv@gmail.com">hungyentv@gmail.com</a>
+                                - <a href="mailto:mail@hungyentv.vn">mail@hungyentv.vn</a></li>
+                            <li><i class="fa fa-map-marker"></i>&nbsp;164 Nguyễn Văn Linh - TP Hưng Yên - Hưng Yên</li>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!--    < ?=(new Templates\Plugins\BannerAffix)->render('affix_left');?>-->
+<!--    < ?=(new Templates\Plugins\BannerAffix)->render('affix_right');?>-->
+
+ <!--<script>
+            (function(b, o, i, l, e, r) {
+                b.GoogleAnalyticsObject = l;
+                b[l] || (b[l] =
+                    function() {
+                        (b[l].q = b[l].q || []).push(arguments)
+                    });
+                b[l].l = +new Date;
+                e = o.createElement(i);
+                r = o.getElementsByTagName(i)[0];
+                e.src = '//www.google-analytics.com/analytics.js';
+                r.parentNode.insertBefore(e, r)
+            }(window, document, 'script', 'ga'));
+            ga('create', 'UA-167750391-1');
+            ga('send', 'pageview');
+        </script>
+		-->
+
+       <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-303X7F8ZE4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-303X7F8ZE4');
+</script>
+   
+
+
+                <script src="/templates/frontend/hytv/Assets/js/jquery.social.min.js"></script>
+            <script>
+                $(function() {
+                    "use strict";
+
+                    // Twitter
+                    $('.tweet').tweet({
+                        lang: 'vi'
+                    });
+                    // Facebook
+                    $('.fblike').fblike({
+                        locale: 'vi_VN',
+                        layout: 'button_count',
+                        show_faces: 'false',
+                        action: 'like'
+                    });
+                    // Zalo
+                    $('.zalo').share({
+                        appId: "2576965481278108210",
+                        layout: "1",
+                        color: "blue",
+                        customize: "false",
+                        customize_html: "",
+                    });
+                });
+            </script>
+        
+    
+</body>
+
+</html>

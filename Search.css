@@ -1,0 +1,27 @@
+.header-search input {
+    height: 40px;
+    padding-left: 40px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 50px;
+    width: 400px;
+    padding-top: 2px;
+    background: rgb(15, 13, 13);
+    color: aliceblue;
+}
+
+.header-search {
+    position: relative;
+}
+
+.baba {
+    position: absolute;
+    top: 50%;
+    /* left: 20px; */
+    transform: translateY(-50%);
+    cursor: pointer;
+    left: 0;
+    padding-left: 10px;
+    color: aliceblue;
+
+
+}

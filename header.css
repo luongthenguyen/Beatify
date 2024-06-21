@@ -1,0 +1,258 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: "Uzi";
+  src: url("https://raw.githubusercontent.com/vickkie/uzitrake/main/fonts/Uzi-stylish.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Uzicute";
+  src: url("https://raw.githubusercontent.com/vickkie/uzitrake/main/fonts/Uzicute.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+:root {
+  font-size: 17px;
+}
+
+body {
+  margin: 0;
+
+  --color-link-social: #ca5d2b;
+
+  --color-text-title: #ee8233;
+
+}
+
+body #cdawrap {
+  margin-left: auto;
+}
+
+/* Page Loader */
+.js .loading::before,
+.js .loading::after {
+  content: '';
+  position: fixed;
+  z-index: 1000;
+}
+
+.js .loading::before {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: var(--color-bg);
+}
+
+.js .loading::after {
+  top: 50%;
+  left: 50%;
+  width: 60px;
+  height: 60px;
+  margin: -30px 0 0 -30px;
+  border-radius: 50%;
+  opacity: 0.4;
+  background: var(--color-link);
+  animation: loaderAnim 0.7s linear infinite alternate forwards;
+}
+
+@keyframes loaderAnim {
+  to {
+    opacity: 1;
+    transform: scale3d(0.5,0.5,1);
+  }
+}
+
+a {
+  text-decoration: none;
+  color: var(--color-link);
+  outline: none;
+}
+
+a:hover {
+  color: var(--color-link-hover);
+  outline: none;
+}
+
+/* Better focus styles from https://developer.mozilla.org/en-US/docs/Web/CSS/:focus-visible */
+a:focus {
+  /* Provide a fallback style for browsers
+   that don't support :focus-visible */
+  outline: none;
+  background: lightgrey;
+}
+
+a:focus:not(:focus-visible) {
+  /* Remove the focus indicator on mouse-focus for browsers
+   that do support :focus-visible */
+  background: transparent;
+}
+
+a:focus-visible {
+  /* Draw a very noticeable focus style for
+   keyboard-focus on browsers that do support
+   :focus-visible */
+  outline: 2px solid red;
+  background: transparent;
+  outline-offset: -2px;
+}
+
+.hover-line {
+  white-space: nowrap;
+  overflow: hidden;
+  position: relative;
+  display: inline-block;
+}
+
+.hover-line::before {
+  content: '';
+  height: 1px;
+  width: 100%;
+  background: currentColor;
+  position: absolute;
+  top: 92%;
+  transition: transform 0.3s;
+  transform-origin: 0% 50%;
+}
+
+.hover-line:hover::before {
+  transform: scaleX(0);
+  transform-origin: 100% 50%;
+}
+
+.unbutton {
+  background: none;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  font: inherit;
+  cursor: pointer;
+}
+
+.unbutton:focus {
+  outline: none;
+}
+
+main {
+  display: grid;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+
+
+.content {
+  grid-area: 1 / 1 / 2 / 2;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  display: grid;
+  grid-template-rows: 10vh 15vh auto 1fr auto 1fr;
+  grid-template-columns: 18% 1fr 1fr 18%;
+  grid-column-gap: 7vw;
+  grid-template-areas: 
+  '... img-main img-main ...'
+  '... img-main img-main ...'
+  'img-left img-main img-main title-right'
+  'img-left img-main img-main img-right'
+  'title-left img-main img-main img-right'
+  'title-left img-main img-main img-right';
+}
+
+.content__img {
+  position: relative;
+  background-size: cover;
+  background-position: 50% 20%;
+  will-change: transform;
+}
+
+.content__img--left {
+  grid-area: img-left;
+}
+
+.content__img--main {
+  grid-area: img-main;
+}
+
+.content__title {
+  z-index: 10;
+  position: relative;
+  font-family: kudryashev-d-excontrast-sans, sans-serif;
+  font-weight: 300;
+  color: var(--color-text-title);
+  margin: 0;
+  line-height: 1;
+  will-change: transform;
+}
+
+.content__title--left {
+  grid-area: title-left;
+  font-size: 4vw;
+  justify-self: end;
+  margin-top: 2rem;
+}
+
+.content__title--main {
+  grid-area: img-main;
+  display: grid;
+  padding: 20vh 0 10vh;
+  grid-template-rows: repeat(4,17vh);
+  grid-template-areas:
+    'letter-1 ...'
+    '... letter-3'
+    'letter-2 ...'
+    '... letter-4';
+  font-size: 20vh;
+  align-content: center;
+  justify-items: center;
+  line-height: 1;
+}
+
+.content__title--main span {
+  display: block;
+}
+
+.content__title--main span:first-child {
+  grid-area: letter-1;
+}
+
+.content__title--main span:nth-child(2) {
+  grid-area: letter-2;
+}
+
+.content__title--main span:nth-child(3) {
+  grid-area: letter-3;
+}
+
+.content__title--main span:nth-child(4) {
+  grid-area: letter-4;
+}
+
+.content__img--right {
+  grid-area: img-right;
+}
+
+.content__title--right {
+  grid-area: title-right;
+  font-size: 6.5vw;
+}
+
+.content__description {
+  z-index: 10;
+  text-transform: uppercase;
+  grid-area: 2 / 3 / 3 / 5;
+  max-width: 400px;
+  align-self: center;
+  justify-self: center;
+  line-height: 1;
+  font-style: italic;
+}
+
+
